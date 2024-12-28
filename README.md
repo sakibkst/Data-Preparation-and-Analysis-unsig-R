@@ -40,7 +40,7 @@ This project demonstrates a comprehensive workflow for preparing and analyzing a
 ---
 
 ## Technical Details
-- **Tools:** Python and associated libraries.
+- **Tools:** R and associated libraries.
 - **Data Handling:** Includes file import, validation, and processing techniques.
 - **Statistical Insights:** Uses measures of central tendency and outlier analysis for deeper understanding.
 
